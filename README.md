@@ -28,11 +28,11 @@ Deja esta ventana abierta mientras uses el proyecto.
 En VS Code, haz clic derecho en la carpeta frontend y elige Open in Integrated Terminal.
 
 La primera vez, copia:
-
 npm.cmd install
-Después, cada vez que quieras iniciar la página, copia:
 
+Después, cada vez que quieras iniciar la página, copia:
 npm.cmd run dev
+
 Deja también esta ventana abierta.
 
 4. Abre el proyecto
